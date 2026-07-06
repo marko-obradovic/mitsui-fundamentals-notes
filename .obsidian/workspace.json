@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "998481bb759264e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dde6975eb2faaa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90a7db0afbe5574",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "mindmap.canvas",
+                "viewState": {
+                  "x": 3155.66608342001,
+                  "y": 3512.1125140149647,
+                  "zoom": -0.4000000000000006
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mindmap"
+            }
+          },
+          {
+            "id": "00a4b0c52a38d85b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "mindmap.canvas",
+                "viewState": {
+                  "x": 863.9913605086467,
+                  "y": 3466.8175579377894,
+                  "zoom": -0.40000000000000013
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mindmap"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d046c65b77dce8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f45c4fe3d6c859b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f11f3638a22080cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb85d500134d1d8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7de7871af0469d24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2691be697c0f771f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c227183382780d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be67d768183e9c3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mindmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mindmap"
+            }
+          },
+          {
+            "id": "ee0c716506ee1771",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mindmap.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from mindmap"
+            }
+          },
+          {
+            "id": "f89661ef55920a04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5ac0f0d12c7e588",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "41883c40f4eb7cca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mindmap.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of mindmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "00a4b0c52a38d85b",
+  "lastOpenFiles": [
+    "definitions.md",
+    "mindmap.canvas",
+    "definitions.canvas",
+    "financial-instrument.md",
+    "definitions"
+  ]
+}
