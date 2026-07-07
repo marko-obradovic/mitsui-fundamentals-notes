@@ -3,39 +3,46 @@
 		{"id":"77665cb7a949e4bf","type":"group","x":1900,"y":-480,"width":940,"height":483,"label":"Facts"},
 		{"id":"a36a2d7bb17d1f17","type":"group","x":-1160,"y":20,"width":300,"height":520,"label":"Color coding"},
 		{
-			"id":"6394adbb531c17c0",
+			"id":"b3de73a96d86d770",
 			"type":"text",
-			"text":"Financial Instruments and Exchange Act",
+			"text":"**Budget versus Actual (BVA) performance evaluation:**\nEnables us to:\n- Formulate objectives and business plans for future business activities\n- Review actual results of business in terms of such objectives and plans.",
 			"styleAttributes":{},
-			"x":1980,
-			"y":900,
-			"width":346,
-			"height":60,
-			"color":"6"
+			"x":1420,
+			"y":2240,
+			"width":740,
+			"height":141
 		},
 		{
-			"id":"ab56c8773309b7b7",
+			"id":"745a364e60ce591e",
 			"type":"text",
-			"text":"Companies Act",
+			"text":"Sales cost = economic value consumed in the production + sale of goods and services\n\n(expressed in both quantity and monetary terms)\n\nIt involves:\n- classifying\n- aggregating\n- analyzing\n- understanding\nthese costs according to a chosen criteria\n\nBy intentionally adjusting the allocation of product costs for different goods, it is possible to lower the cost of products you want to promote, thereby enabling cost-based promotional activities.",
 			"styleAttributes":{},
-			"x":1984,
-			"y":611,
-			"width":169,
-			"height":60,
-			"color":"6"
+			"x":1420,
+			"y":1800,
+			"width":820,
+			"height":348
 		},
 		{
-			"id":"5db4e1b9fcb16a4b",
+			"id":"a5e56f069974e3b8",
 			"type":"text",
-			"text":"Financial data reported outside the company",
+			"text":"Preparation, content and timing of information is more flexible than financial accounting.\n\n",
 			"styleAttributes":{},
-			"x":906,
-			"y":760,
-			"width":380,
-			"height":60,
-			"color":"4"
+			"x":1420,
+			"y":1680,
+			"width":715,
+			"height":60
 		},
 		{"id":"80d32acee737dbc9","type":"text","text":"# Accounting","x":-480,"y":1480,"width":184,"height":60,"color":"#3f679d"},
+		{
+			"id":"f03778adbc4d9166",
+			"type":"text",
+			"text":"**Why?**\nWhen there are COO briefings / Executive Committee meetings, they use:\n- Executive Committee meeting materials\n- COO briefings\n- Monthly reports by business divisions\n- Sales cost estimates by affiliates\n- Budget versus actual evaluations.\n\nTo determine\n- Financial outlook on past performance\n- Reports on asset holdings & monetary amount\n\nSo they can\n1. Evaluate the operating results of each unit\n2. Pinpoint under-performing areas\n3. Analyze + identify the reasons\n4. Use sales cost estimates to determine product prices and estimate profitability",
+			"styleAttributes":{},
+			"x":1420,
+			"y":1103,
+			"width":664,
+			"height":501
+		},
 		{
 			"id":"f64685b392950900",
 			"type":"text",
@@ -59,26 +66,15 @@
 			"color":"4"
 		},
 		{
-			"id":"2281a754a2efa1ad",
+			"id":"5db4e1b9fcb16a4b",
 			"type":"text",
-			"text":"Financial Accounting\n(AKA Institutional Accounting)",
+			"text":"Financial data reported outside the company",
 			"styleAttributes":{},
-			"x":960,
-			"y":581,
-			"width":271,
+			"x":906,
+			"y":760,
+			"width":380,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"1dbbe757dd73437f",
-			"type":"text",
-			"text":"IRFS (Inernational Financial Reporting Standards)",
-			"styleAttributes":{},
-			"x":562,
-			"y":320,
-			"width":413,
-			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"6c961c3a2cb2cab0",
@@ -92,79 +88,6 @@
 			"color":"3"
 		},
 		{
-			"id":"b6630f1576182566",
-			"type":"text",
-			"text":"The obligation for a company to:\n1. Prepare financial statements\n2. Publicly disclose financial results\n\n**Why?**\nFor the protection and adjustment of interests of creditors, stakeholders and investors.",
-			"styleAttributes":{},
-			"x":2269,
-			"y":521,
-			"width":367,
-			"height":239
-		},
-		{
-			"id":"147aba983f52d72e",
-			"type":"text",
-			"text":"- An independent nonprofit organization\n- Consists of 14 members chosen in consideration of a regional balance.",
-			"styleAttributes":{},
-			"x":1779,
-			"y":310,
-			"width":606,
-			"height":80
-		},
-		{
-			"id":"5deb74a1bd2cc2b7",
-			"type":"text",
-			"text":"**Annual Reports**\nU.S. and European companies prepare annual reports that:\n- Cover business results + financial conditions at the end of each fiscal year\n- Are distributed to shareholders and the general public.\n\nThey:\n- Have no legally required format\n- Cover more items and are easier to read than business reports required under the Companies Act of Japan\n- Provide a better understanding of the corporate activities of a company",
-			"styleAttributes":{},
-			"x":1925,
-			"y":-320,
-			"width":876,
-			"height":286
-		},
-		{"id":"b44e4f7924c2ea5d","type":"text","text":"Enables proper recording and meaningful reporting of financial data","x":1285,"y":-175,"width":331,"height":55},
-		{
-			"id":"6c7f804eeef47bca",
-			"type":"text",
-			"text":"why",
-			"styleAttributes":{"border":"invisible"},
-			"x":1120,
-			"y":-178,
-			"width":77,
-			"height":60
-		},
-		{"id":"36f932247ee80e49","type":"text","text":"Provides standards for accounting.\nSpecifically:\n- Concepts\n- Rules\n- Principles\n- Accounting systems","x":1285,"y":-489,"width":492,"height":204},
-		{"id":"3ce4e8668673d497","type":"text","text":"GAAP (Generally Accepted Accounting Principles)","x":562,"y":-178,"width":426,"height":60,"color":"3"},
-		{
-			"id":"eeaa5b7ae7704e2f",
-			"type":"text",
-			"text":"what",
-			"styleAttributes":{"border":"invisible"},
-			"x":1113,
-			"y":-417,
-			"width":92,
-			"height":60
-		},
-		{
-			"id":"30cebe285c641aec",
-			"type":"text",
-			"text":"- In 2005, the EU required EU-listed companies to adopt IFRS\n- 160+ countries / regions currently adopt IFRS",
-			"styleAttributes":{},
-			"x":1920,
-			"y":-460,
-			"width":580,
-			"height":100
-		},
-		{
-			"id":"40a27653caa41100",
-			"type":"text",
-			"text":"Requires the submission of:\n- Securities reports\n- Semiannual securities reports\n\n**Why?**\nOnly to protect investors",
-			"styleAttributes":{},
-			"x":2413,
-			"y":834,
-			"width":299,
-			"height":191
-		},
-		{
 			"id":"7ae4e3f7192cb7f3",
 			"type":"text",
 			"text":"Laws that regulate Financial Accounting:",
@@ -175,6 +98,17 @@
 			"height":60
 		},
 		{
+			"id":"2281a754a2efa1ad",
+			"type":"text",
+			"text":"Financial Accounting\n(AKA Institutional Accounting)",
+			"styleAttributes":{},
+			"x":960,
+			"y":581,
+			"width":271,
+			"height":60,
+			"color":"6"
+		},
+		{
 			"id":"d4fa25746b554934",
 			"type":"text",
 			"text":"**Why?**\nMainly used for shareholders & creditors because they provide funds for the growth / sustainability of the company",
@@ -183,6 +117,17 @@
 			"y":460,
 			"width":576,
 			"height":85
+		},
+		{
+			"id":"1dbbe757dd73437f",
+			"type":"text",
+			"text":"IRFS (Inernational Financial Reporting Standards)",
+			"styleAttributes":{},
+			"x":562,
+			"y":320,
+			"width":413,
+			"height":60,
+			"color":"3"
 		},
 		{
 			"id":"a79411f19cebd146",
@@ -224,39 +169,102 @@
 			"width":273,
 			"height":135
 		},
-		{"id":"843d9d5b272fb4e2","type":"text","text":"**Accounting:**\nThe process of recording, measuring and reporting financial information about economic entities to help users make informed decisions","x":-30,"y":-472,"width":411,"height":115,"color":"4"},
-		{"id":"e7c25b96358c88e8","type":"text","text":"What is Accounting?","x":50,"y":-240,"width":250,"height":60,"color":"2"},
 		{
-			"id":"8511c544793d7285",
+			"id":"147aba983f52d72e",
 			"type":"text",
-			"text":"**Balance Sheet**  \nA financial statement that shows a company's assets, liabilities, and shareholders' equity at a specific point in time. It represents the accounting equation:\n\n$\\text{Assets} = \\text{Liabilities} + \\text{Equity}$\n\nIn consolidated financial statements, the balance sheet is called the consolidated statement of financial position. It provides shareholders, creditors, and other stakeholders with a snapshot of the company's financial position at the balance sheet date.",
+			"text":"- An independent nonprofit organization\n- Consists of 14 members chosen in consideration of a regional balance.",
 			"styleAttributes":{},
-			"x":327,
-			"y":2220,
-			"width":480,
-			"height":306,
-			"color":"4"
+			"x":1779,
+			"y":310,
+			"width":606,
+			"height":80
 		},
-		{"id":"a8ac8bd2567522f5","type":"text","text":"Accounting Fundamentals","x":51,"y":2920,"width":250,"height":60,"color":"2"},
+		{"id":"b44e4f7924c2ea5d","type":"text","text":"Enables proper recording and meaningful reporting of financial data","x":1285,"y":-175,"width":331,"height":55},
 		{
-			"id":"00c68e26b2671cb7",
+			"id":"6c7f804eeef47bca",
 			"type":"text",
-			"text":"Balance sheet (B/S)",
+			"text":"why",
+			"styleAttributes":{"border":"invisible"},
+			"x":1120,
+			"y":-178,
+			"width":77,
+			"height":60
+		},
+		{"id":"3ce4e8668673d497","type":"text","text":"GAAP (Generally Accepted Accounting Principles)","x":562,"y":-178,"width":426,"height":60,"color":"3"},
+		{"id":"e7c25b96358c88e8","type":"text","text":"What is Accounting?","x":50,"y":-240,"width":250,"height":60,"color":"2"},
+		{"id":"36f932247ee80e49","type":"text","text":"Provides standards for accounting.\nSpecifically:\n- Concepts\n- Rules\n- Principles\n- Accounting systems","x":1285,"y":-489,"width":492,"height":204},
+		{
+			"id":"5deb74a1bd2cc2b7",
+			"type":"text",
+			"text":"**Annual Reports**\nU.S. and European companies prepare annual reports that:\n- Cover business results + financial conditions at the end of each fiscal year\n- Are distributed to shareholders and the general public.\n\nThey:\n- Have no legally required format\n- Cover more items and are easier to read than business reports required under the Companies Act of Japan\n- Provide a better understanding of the corporate activities of a company",
 			"styleAttributes":{},
-			"x":437,
-			"y":2660,
-			"width":260,
+			"x":1925,
+			"y":-320,
+			"width":876,
+			"height":286
+		},
+		{
+			"id":"eeaa5b7ae7704e2f",
+			"type":"text",
+			"text":"what",
+			"styleAttributes":{"border":"invisible"},
+			"x":1113,
+			"y":-417,
+			"width":92,
 			"height":60
 		},
 		{
-			"id":"745a364e60ce591e",
+			"id":"30cebe285c641aec",
 			"type":"text",
-			"text":"Sales cost = economic value consumed in the production + sale of goods and services\n\n(expressed in both quantity and monetary terms)\n\nIt involves:\n- classifying\n- aggregating\n- analyzing\n- understanding\nthese costs according to a chosen criteria\n\nBy intentionally adjusting the allocation of product costs for different goods, it is possible to lower the cost of products you want to promote, thereby enabling cost-based promotional activities.",
+			"text":"- In 2005, the EU required EU-listed companies to adopt IFRS\n- 160+ countries / regions currently adopt IFRS",
 			"styleAttributes":{},
-			"x":1420,
-			"y":1800,
-			"width":820,
-			"height":348
+			"x":1920,
+			"y":-460,
+			"width":580,
+			"height":100
+		},
+		{"id":"843d9d5b272fb4e2","type":"text","text":"**Accounting:**\nThe process of recording, measuring and reporting financial information about economic entities to help users make informed decisions","x":-30,"y":-472,"width":411,"height":115,"color":"4"},
+		{
+			"id":"ab56c8773309b7b7",
+			"type":"text",
+			"text":"Companies Act",
+			"styleAttributes":{},
+			"x":1984,
+			"y":611,
+			"width":169,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"b6630f1576182566",
+			"type":"text",
+			"text":"The obligation for a company to:\n1. Prepare financial statements\n2. Publicly disclose financial results\n\n**Why?**\nFor the protection and adjustment of interests of creditors, stakeholders and investors.",
+			"styleAttributes":{},
+			"x":2269,
+			"y":521,
+			"width":367,
+			"height":239
+		},
+		{
+			"id":"40a27653caa41100",
+			"type":"text",
+			"text":"Requires the submission of:\n- Securities reports\n- Semiannual securities reports\n\n**Why?**\nOnly to protect investors",
+			"styleAttributes":{},
+			"x":2413,
+			"y":834,
+			"width":299,
+			"height":191
+		},
+		{
+			"id":"6394adbb531c17c0",
+			"type":"text",
+			"text":"Financial Instruments and Exchange Act",
+			"styleAttributes":{},
+			"x":1980,
+			"y":900,
+			"width":346,
+			"height":60,
+			"color":"6"
 		},
 		{
 			"id":"3217ef5a1612ba76",
@@ -270,126 +278,47 @@
 			"color":"1"
 		},
 		{
-			"id":"a5e56f069974e3b8",
+			"id":"fcb0f8837513141f",
 			"type":"text",
-			"text":"Preparation, content and timing of information is more flexible than financial accounting.\n\n",
+			"text":"Sub-subtopic",
 			"styleAttributes":{},
-			"x":1420,
-			"y":1680,
-			"width":715,
-			"height":60
+			"x":-1140,
+			"y":460,
+			"width":260,
+			"height":60,
+			"color":"6"
 		},
 		{
-			"id":"b3de73a96d86d770",
+			"id":"90f9da0f630dce2a",
 			"type":"text",
-			"text":"**Budget versus Actual (BVA) performance evaluation:**\nEnables us to:\n- Formulate objectives and business plans for future business activities\n- Review actual results of business in terms of such objectives and plans.",
+			"text":"Subtopic",
 			"styleAttributes":{},
-			"x":1420,
-			"y":2240,
-			"width":740,
-			"height":141
+			"x":-1140,
+			"y":360,
+			"width":260,
+			"height":60,
+			"color":"3"
 		},
 		{
-			"id":"f03778adbc4d9166",
+			"id":"ddc72ce5ee0149ab",
 			"type":"text",
-			"text":"**Why?**\nWhen there are COO briefings / Executive Committee meetings, they use:\n- Executive Committee meeting materials\n- COO briefings\n- Monthly reports by business divisions\n- Sales cost estimates by affiliates\n- Budget versus actual evaluations.\n\nTo determine\n- Financial outlook on past performance\n- Reports on asset holdings & monetary amount\n\nSo they can\n1. Evaluate the operating results of each unit\n2. Pinpoint under-performing areas\n3. Analyze + identify the reasons\n4. Use sales cost estimates to determine product prices and estimate profitability",
+			"text":"Topic",
 			"styleAttributes":{},
-			"x":1420,
-			"y":1103,
-			"width":664,
-			"height":501
+			"x":-1140,
+			"y":260,
+			"width":260,
+			"height":60,
+			"color":"2"
 		},
 		{
-			"id":"c00d520aec9085df",
+			"id":"3fbd0e76ae4c6b22",
 			"type":"text",
-			"text":"In accounting, a company is assumed to be a going concern, meaning it is expected to continue operating in the future rather than shutting down soon.\n\nBecause a business keeps running continuously, accountants cannot wait until the company ends to measure its performance. Instead, they divide time into periods and prepare financial statements at specific dates to show the company's financial position and results.",
+			"text":"Mitsui Related",
 			"styleAttributes":{},
-			"x":1083,
-			"y":2466,
-			"width":680,
-			"height":194
-		},
-		{
-			"id":"11ea84c83374a24e",
-			"type":"text",
-			"text":"# **ASSETS**\nAssets represent the wealth held by the company, and include its cash, property, and receivables.\n## **Current assets (short-term assets)**\n\nAssets expected to be converted into cash or used within 1 year.\n\n- **Cash and cash deposits** → Money the company already has in hand or in the bank.\n    \n- **Notes receivable** → Written promises from others to pay the company money in the short term.\n    \n- **Accounts receivable** → Money customers owe the company for goods/services already delivered.\n    \n- **Inventories** → Goods held for sale or raw materials used in production.\n    \n- **Other current assets** → Any other short-term assets not listed above.\n    \n## **Fixed / Non-current assets (long-term assets)**\n\nAssets used over a long period (more than 1 year) to run the business.\n\n- **Property, plant, and equipment (PPE)** → Physical assets used in operations (e.g. buildings, machinery, land, vehicles).\n    \n- **Intangible assets** → Non-physical assets with value (e.g. patents, software, trademarks, goodwill).\n    \n- **Investments and other fixed assets** → Long-term investments in other companies or financial assets not intended for quick sale.\n    ",
-			"styleAttributes":{},
-			"x":2800,
-			"y":2120,
-			"width":1040,
-			"height":624
-		},
-		{
-			"id":"4b32b6d6d76d0bb6",
-			"type":"text",
-			"text":"\n# **LIABILITIES**\n\n## **Current liabilities (short-term obligations)**\n\nDebts the company must pay within 1 year.\n\n- **Notes payable** → Written promises to pay a specific amount in the short term.\n    \n- **Trade accounts payable** → Money owed to suppliers for goods/services received on credit.\n    \n- **Short-term loans** → Borrowed money that must be repaid within a year.\n    \n- **Other accounts payable** → Miscellaneous short-term debts (e.g. unpaid expenses).\n    \n- **Receipts in advance** → Money received before delivering goods/services (a liability until fulfilled).\n    \n- **Other current liabilities** → Any other short-term obligations not listed above.\n    \n## **Long-term liabilities (long-term obligations)**\n\nDebts due after more than 1 year.\n\n- **Corporate bonds** → Money borrowed from investors through issued bonds.\n    \n- **Long-term debt** → Loans or borrowings repayable over a longer period.\n    \n- **Liability for retirement benefits** → Future pension/retirement payments owed to employees.\n    \n- **Other long-term liabilities** → Any other long-term financial obligations.\n    ",
-			"styleAttributes":{},
-			"x":2800,
-			"y":2790,
-			"width":820,
-			"height":580
-		},
-		{
-			"id":"997723c4f27b2676",
-			"type":"text",
-			"text":"# **EQUITY (Shareholders’ Equity)**\n\n$\\text{Shareholders’ equity} = \\text{Capital} + \\text{Reserves} + \\text{Adjustments} + \\text{Retained earnings} + \\text{etc.}$\n## **Components of Equity**\n\n* **Capital (Share capital)** → Money invested into the company by shareholders when shares are issued.\n* **Capital surplus** → Extra money paid by shareholders above the nominal (face) value of shares.\n* **Retained earnings** → Accumulated profits that the company has kept instead of paying out as dividends.\n* **Valuation and translation adjustments** → Changes in equity caused by asset revaluations or foreign currency exchange differences.\n* **New share subscription rights** → Rights that allow holders to buy new shares in the future at a set price.\n    ",
-			"styleAttributes":{},
-			"x":2800,
-			"y":3480,
-			"width":1067,
-			"height":387
-		},
-		{
-			"id":"925e82b27e06e42e",
-			"type":"text",
-			"text":"A balance sheet shows a company's financial position at a specific point in time and follows the relationship:\n\nAssets = Liabilities + Equity\n\n| Term                                |                                                                                           Definition | Simple way to think about it   |\n| ----------------------------------- | ---------------------------------------------------------------------------------------------------: | ------------------------------ |\n| **Assets**                          | Resources owned or controlled by a company that have economic value and can provide future benefits. | **What the company has**       |\n| **Liabilities**                     |         Financial obligations or debts that the company owes to others and must repay in the future. | **What the company owes**      |\n| **Equity** (net assets / net worth) |            The remaining value belonging to the owners after liabilities are subtracted from assets. | **What belongs to the owners** |\n\n- Assets = **debit** balances\n- Liabilities and Equity = **credit** balances",
-			"styleAttributes":{},
-			"x":1083,
-			"y":2695,
-			"width":1323,
-			"height":335
-		},
-		{
-			"id":"3b6e412ce2420555",
-			"type":"text",
-			"text":"\n\nWhen the company makes a loss, retained earnings decrease, reducing equity and the value of shareholders' investment.\n\nIf a company’s liabilities exceed its assets, it has a negative net worth (capital deficit) - this means it's insolvent.\n\nIn this situation, a company may enter bankruptcy, or liquidation and the following happens:\n\n1. The company **sells its assets** (cash, buildings, equipment)  \n    → This generates money\n2. That money is used to **pay liabilities (debts)**  \n    → Bank loans, suppliers, etc.\n3. After all debts are paid, whatever is left goes to **shareholders (equity holders)**\n",
-			"styleAttributes":{},
-			"x":3980,
-			"y":3480,
-			"width":660,
-			"height":393
-		},
-		{
-			"id":"dbad93025f9ff34f",
-			"type":"text",
-			"text":"**Liquidation:**\nSelling a company's assets to pay its liabilities and shut it down",
-			"styleAttributes":{},
-			"x":4780,
-			"y":3634,
-			"width":293,
-			"height":85,
-			"color":"4"
-		},
-		{
-			"id":"4cda887bb2fa34d6",
-			"type":"text",
-			"text":"**Retained earnings:**\nAccumulated profits of a company",
-			"styleAttributes":{},
-			"x":4158,
-			"y":3340,
-			"width":304,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"e088bb3a1b1ad13f",
-			"type":"text",
-			"text":"Because Mitsui could lose money if a customer goes bankrupt and cannot pay what they owe, it is important to be careful when Mitsui is lending or providing credit.\n\nBalance sheets are useful not only for understanding our own company’s financial health, but also for checking the financial position of customers, partners, and competitors.",
-			"styleAttributes":{},
-			"x":4069,
-			"y":4000,
-			"width":483,
-			"height":194,
+			"x":-1140,
+			"y":160,
+			"width":260,
+			"height":60,
 			"color":"5"
 		},
 		{
@@ -404,106 +333,366 @@
 			"color":"4"
 		},
 		{
-			"id":"3fbd0e76ae4c6b22",
+			"id":"96b6b7ee1605730a",
 			"type":"text",
-			"text":"Mitsui Related",
+			"text":"Income statements\nAka Profit & Loss statement (P/L)",
 			"styleAttributes":{},
-			"x":-1140,
-			"y":160,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"ddc72ce5ee0149ab",
-			"type":"text",
-			"text":"Topic",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":260,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"90f9da0f630dce2a",
-			"type":"text",
-			"text":"Subtopic",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":360,
-			"width":260,
+			"x":438,
+			"y":3760,
+			"width":294,
 			"height":60,
 			"color":"3"
 		},
 		{
-			"id":"fcb0f8837513141f",
+			"id":"0316fc88682f3810",
 			"type":"text",
-			"text":"Sub-subtopic",
+			"text":"**Income statement:**\nA report showing how much money a company made versus spent over a period of time. It breaks down every transaction to show the final profit or loss.",
 			"styleAttributes":{},
-			"x":-1140,
-			"y":460,
+			"x":405,
+			"y":3920,
+			"width":361,
+			"height":145,
+			"color":"4"
+		},
+		{
+			"id":"00c68e26b2671cb7",
+			"type":"text",
+			"text":"Balance sheet (B/S)",
+			"styleAttributes":{},
+			"x":437,
+			"y":3260,
 			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{"id":"a8ac8bd2567522f5","type":"text","text":"Accounting Fundamentals","x":51,"y":3520,"width":250,"height":60,"color":"2"},
+		{
+			"id":"16aa3440decca905",
+			"type":"text",
+			"text":"Because they:\n- cover the same time period\n- rely on the same numbers\ncompanies prepare them **at the same time**.\n\nOnce they’re done, they are sent to the people who own or loan money to the company so everyone knows if the business is healthy.",
+			"styleAttributes":{},
+			"x":437,
+			"y":3431,
+			"width":403,
+			"height":239
+		},
+		{
+			"id":"8511c544793d7285",
+			"type":"text",
+			"text":"**Balance Sheet**  \nA financial statement that shows a snapshot of a company's assets, liabilities, and shareholders' equity at a specific point in time. It represents the accounting equation:\n\n$\\text{Assets} = \\text{Liabilities} + \\text{Equity}$\n\nIn consolidated financial statements, the balance sheet is called the consolidated statement of financial position. It provides shareholders, creditors, and other stakeholders with a snapshot of the company's financial position at the balance sheet date.",
+			"styleAttributes":{},
+			"x":327,
+			"y":2857,
+			"width":480,
+			"height":330,
+			"color":"4"
+		},
+		{
+			"id":"c00d520aec9085df",
+			"type":"text",
+			"text":"In accounting, a company is assumed to be a going concern, meaning it is expected to continue operating in the future rather than shutting down soon.\n\nBecause a business keeps running continuously, accountants cannot wait until the company ends to measure its performance. Instead, they divide time into periods and prepare financial statements at specific dates to show the company's financial position and results.",
+			"styleAttributes":{},
+			"x":1360,
+			"y":2636,
+			"width":680,
+			"height":194
+		},
+		{
+			"id":"925e82b27e06e42e",
+			"type":"text",
+			"text":"A balance sheet shows a company's financial position at a specific point in time and follows the relationship:\n\nAssets = Liabilities + Equity\n\n| Term                                |                                                                                           Definition | Simple way to think about it   |\n| ----------------------------------- | ---------------------------------------------------------------------------------------------------: | ------------------------------ |\n| **Assets**                          | Resources owned or controlled by a company that have economic value and can provide future benefits. | **What the company has**       |\n| **Liabilities**                     |         Financial obligations or debts that the company owes to others and must repay in the future. | **What the company owes**      |\n| **Equity** (net assets / net worth) |            The remaining value belonging to the owners after liabilities are subtracted from assets. | **What belongs to the owners** |\n\n- Assets = **debit** balances\n- Liabilities and Equity = **credit** balances",
+			"styleAttributes":{},
+			"x":1360,
+			"y":2865,
+			"width":1323,
+			"height":335
+		},
+		{
+			"id":"11ea84c83374a24e",
+			"type":"text",
+			"text":"# **ASSETS**\nAssets represent the wealth held by the company, and include its cash, property, and receivables.\n## **Current assets (short-term assets)**\n\nAssets expected to be converted into cash or used within 1 year.\n\n- **Cash and cash deposits** → Money the company already has in hand or in the bank.\n    \n- **Notes receivable** → Written promises from others to pay the company money in the short term.\n    \n- **Accounts receivable** → Money customers owe the company for goods/services already delivered.\n    \n- **Inventories** → Goods held for sale or raw materials used in production.\n    \n- **Other current assets** → Any other short-term assets not listed above.\n    \n## **Fixed / Non-current assets (long-term assets)**\n\nAssets used over a long period (more than 1 year) to run the business.\n\n- **Property, plant, and equipment (PPE)** → Physical assets used in operations (e.g. buildings, machinery, land, vehicles).\n    \n- **Intangible assets** → Non-physical assets with value (e.g. patents, software, trademarks, goodwill).\n    \n- **Investments and other fixed assets** → Long-term investments in other companies or financial assets not intended for quick sale.\n    ",
+			"styleAttributes":{},
+			"x":2800,
+			"y":2073,
+			"width":1040,
+			"height":624
+		},
+		{
+			"id":"4b32b6d6d76d0bb6",
+			"type":"text",
+			"text":"\n# **LIABILITIES**\n\n## **Current liabilities (short-term obligations)**\n\nDebts the company must pay within 1 year.\n\n- **Notes payable** → Written promises to pay a specific amount in the short term.\n    \n- **Trade accounts payable** → Money owed to suppliers for goods/services received on credit.\n    \n- **Short-term loans** → Borrowed money that must be repaid within a year.\n    \n- **Other accounts payable** → Miscellaneous short-term debts (e.g. unpaid expenses).\n    \n- **Receipts in advance** → Money received before delivering goods/services (a liability until fulfilled).\n    \n- **Other current liabilities** → Any other short-term obligations not listed above.\n    \n## **Long-term liabilities (long-term obligations)**\n\nDebts due after more than 1 year.\n\n- **Corporate bonds** → Money borrowed from investors through issued bonds.\n    \n- **Long-term debt** → Loans or borrowings repayable over a longer period.\n    \n- **Liability for retirement benefits** → Future pension/retirement payments owed to employees.\n    \n- **Other long-term liabilities** → Any other long-term financial obligations.\n    ",
+			"styleAttributes":{},
+			"x":2800,
+			"y":2743,
+			"width":820,
+			"height":580
+		},
+		{
+			"id":"997723c4f27b2676",
+			"type":"text",
+			"text":"# **EQUITY (Shareholders’ Equity)**\n\n$\\text{Shareholders’ equity} = \\text{Capital} + \\text{Reserves} + \\text{Adjustments} + \\text{Retained earnings} + \\text{etc.}$\n## **Components of Equity**\n\n* **Capital (Share capital)** → Money invested into the company by shareholders when shares are issued.\n* **Capital surplus** → Extra money paid by shareholders above the nominal (face) value of shares.\n* **Retained earnings** → Accumulated profits that the company has kept instead of paying out as dividends.\n* **Valuation and translation adjustments** → Changes in equity caused by asset revaluations or foreign currency exchange differences.\n* **New share subscription rights** → Rights that allow holders to buy new shares in the future at a set price.\n    ",
+			"styleAttributes":{},
+			"x":2800,
+			"y":3433,
+			"width":1067,
+			"height":387
+		},
+		{
+			"id":"3b6e412ce2420555",
+			"type":"text",
+			"text":"\n\nWhen the company makes a loss, retained earnings decrease, reducing equity and the value of shareholders' investment.\n\nIf a company’s liabilities exceed its assets, it has a negative net worth (capital deficit) - this means it's insolvent.\n\nIn this situation, a company may enter bankruptcy, or liquidation and the following happens:\n\n1. The company **sells its assets** (cash, buildings, equipment)  \n    → This generates money\n2. That money is used to **pay liabilities (debts)**  \n    → Bank loans, suppliers, etc.\n3. After all debts are paid, whatever is left goes to **shareholders (equity holders)**\n",
+			"styleAttributes":{},
+			"x":3980,
+			"y":3433,
+			"width":660,
+			"height":393
+		},
+		{
+			"id":"dbad93025f9ff34f",
+			"type":"text",
+			"text":"**Liquidation:**\nSelling a company's assets to pay its liabilities and shut it down",
+			"styleAttributes":{},
+			"x":4780,
+			"y":3587,
+			"width":293,
+			"height":85,
+			"color":"4"
+		},
+		{
+			"id":"4cda887bb2fa34d6",
+			"type":"text",
+			"text":"**Retained earnings:**\nAccumulated profits of a company",
+			"styleAttributes":{},
+			"x":4158,
+			"y":3293,
+			"width":304,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"e088bb3a1b1ad13f",
+			"type":"text",
+			"text":"Because Mitsui could lose money if a customer goes bankrupt and cannot pay what they owe, it is important to be careful when Mitsui is lending or providing credit.\n\nBalance sheets are useful not only for understanding our own company’s financial health, but also for checking the financial position of customers, partners, and competitors.",
+			"styleAttributes":{},
+			"x":4069,
+			"y":3953,
+			"width":483,
+			"height":194,
+			"color":"5"
+		},
+		{
+			"id":"e6b96d65920ec8a2",
+			"type":"text",
+			"text":"Accrual",
+			"styleAttributes":{},
+			"x":1360,
+			"y":3540,
+			"width":104,
 			"height":60,
 			"color":"6"
 		},
 		{
+			"id":"d1fcaf21f724f388",
+			"type":"text",
+			"text":"# Example\n\nImagine you buy a new outfit for work on **March 31st** using a credit card. You don’t actually send money to the store until **April 15th**.\n\n- **The Accrual View:** The expense is recorded in **March**.\n- **Why?** Because you received the clothes and used them in March. The fact that you haven't sent the cash yet is just a timing difference in payment, not a difference in when the cost happened.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":3447,
+			"width":600,
+			"height":246
+		},
+		{
+			"id":"8e027e7966359122",
+			"type":"text",
+			"text":"**Record expenses when you _get_ the goods or service, not when you _pay_ for them.**\n\nIt doesn’t matter if you pay cash today or use a credit card to pay next month. If you used the item this month, the expense belongs on this month’s books.\n\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":3323,
+			"width":680,
+			"height":105
+		},
+		{
+			"id":"5b61d7facc17f29f",
+			"type":"text",
+			"text":"\n### Why This Matters\n\nThis rule ensures your financial reports are **accurate**.\n\n- If you waited until April to record the cost, your March report would look like you made more profit than you actually did (because you had the clothes but no expense listed).\n- By recording it in March, you match the **cost** of the clothes with the **revenue** you earned while wearing them. This is called **Matching**, and it’s the heart of accurate accounting.\n\n**In short:** If you \"incurred\" the cost (used the service/good), it counts as an expense _now_, even if the cash leaves your bank account _later_.",
+			"styleAttributes":{},
+			"x":1704,
+			"y":3735,
+			"width":700,
+			"height":330
+		},
+		{
+			"id":"0d3f7a4b674e92d1",
+			"type":"text",
+			"text":"- **The Rule:** You must record the **total** amount of revenue and expenses, not just the final profit.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4330,
+			"width":960,
+			"height":60
+		},
+		{
+			"id":"12703ea1f2ba7148",
+			"type":"text",
+			"text":"- **Why?** If you only recorded the \"profit\" (e.g., sold for $100, cost $60, profit $40), stakeholders wouldn't know the **scale** of your business.\n    - Company A: Made $100 revenue, $100 cost = $0 profit.\n    - Company B: Made $1,000,000 revenue, $1,000,000 cost = $0 profit.\n    - Both have $0 profit, but Company B is much larger. The Gross Amount Principle ensures we see the full $1M in revenue to understand the business size.",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4406,
+			"width":960,
+			"height":188
+		},
+		{
+			"id":"ac8720d38e8eb654",
+			"type":"text",
+			"text":"- **The Logic:** You don't count the cost of making a product until you actually sell it. The idea is to match expenses to the revenues generated\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4770,
+			"width":980,
+			"height":70
+		},
+		{
+			"id":"8fc6804196d25ad2",
+			"type":"text",
+			"text":"- **Example (Clothing Manufacturer):**\n    1. **Making the clothes:** You buy fabric and pay workers. You haven't sold the clothes yet, so you don't count this as an **expense** on the Income Statement. Instead, you record it as an **asset** (Inventory) on the Balance Sheet.\n    2. **Selling the clothes:** Once sold, you move that cost from \"Inventory\" to **Cost of Goods Sold** (an expense).\n    3. **The Match:** Now, the **Revenue** (from the sale) and the **Expense** (the cost of materials/labor) appear on the Income Statement at the same time. This gives you the true profit for that specific item.",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4870,
+			"width":980,
+			"height":188
+		},
+		{
+			"id":"c6e8a42473d9e1db",
+			"type":"text",
+			"text":"- **The Rule:** You only count revenue when it is **actually earned**, meaning the goods are delivered or the service is performed.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4097,
+			"width":760,
+			"height":58
+		},
+		{
+			"id":"b173f65f5f8f6f2e",
+			"type":"text",
+			"text":"- **Why?** You cannot count money you _hope_ to make. If you manufacture a shirt but haven't sold it yet, you cannot count that as revenue. You only count it when a customer buys it.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4189,
+			"width":760,
+			"height":58
+		},
+		{
+			"id":"a17166052ebdda29",
+			"type":"text",
+			"text":"Gross amount",
+			"styleAttributes":{},
+			"x":1360,
+			"y":4390,
+			"width":151,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"eaba9948e5355012",
+			"type":"text",
+			"text":"Matching Principles",
+			"styleAttributes":{},
+			"x":1360,
+			"y":4670,
+			"width":194,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"d735390d63a8920f",
+			"type":"text",
+			"text":"Realization",
+			"styleAttributes":{},
+			"x":1360,
+			"y":4158,
+			"width":128,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f6ce7d428550b62f",
+			"type":"text",
+			"text":"- **The Rule:** Expenses must be recorded in the **same period** as the revenue they helped generate. When you sell, it's counted as an **expense** on the income statement. Before, it's an **asset** on the Balance sheet",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4657,
+			"width":791,
+			"height":87
+		},
+		{
 			"id":"4d023846312cd7f8",
 			"type":"text",
-			"text":"Items included in financial statements",
+			"text":"Items included in income statements",
 			"styleAttributes":{},
-			"x":437,
-			"y":3520,
+			"x":1124,
+			"y":5420,
 			"width":333,
-			"height":60
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"0d1b75d93ede3ad4",
+			"type":"text",
+			"text":"\n| Term                                             | Simple Definition                                                                                                                   | Lemonade Stand Example                                                                                                         |\n| :----------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |\n| **Sales**                                        | **Total Money In.** The total amount of cash you collected from customers before paying for anything.                               | You sold 100 cups of lemonade for $1 each. **Sales = $100.**                                                                   |\n| **Cost of sales**                                | **Direct Cost of Goods.** The money you spent *only* to make the specific items you sold.                                           | You bought lemons, sugar, and cups for $40 to make those 100 cups. **Cost = $40.**                                             |\n| **Gross profit**                                 | **Money Left After Making Goods.** Sales minus the direct cost of the items. It shows if your product is profitable on its own.     | $100 (Sales) - $40 (Cost) = **$60 Gross Profit.**                                                                              |\n| **Selling, general and administrative expenses** | **Running Costs.** Money spent to keep the business open, even if you don't sell anything. Includes rent, ads, and office salaries. | You paid $20 for a table rental, $10 for a \"Lemonade\" sign, and $10 for a friend to help manage the stand. **Expenses = $40.** |\n| **Operating profit**                             | **Core Business Profit.** How much you made just from your main job, ignoring side investments.                                     | $60 (Gross Profit) - $40 (Running Costs) = **$20 Operating Profit.**                                                           |\n| **Non-operating income (loss)**                  | **Side Money.** Money you made from things *other* than your main product.                                                          | You lent $100 to a neighbor and they paid you back $5 interest. **Income = $5.**                                               |\n| **Ordinary profit**                              | **Total Normal Profit.** Your main business profit plus any side income (minus side costs). This is your \"regular\" profit.          | $20 (Operating) + $5 (Side Income) = **$25 Ordinary Profit.**                                                                  |\n| **Extraordinary income (loss)**                  | **One-Time Surprise.** Huge money gained or lost from rare, weird events that won't happen again next year.                         | A storm destroyed your stand (Loss) or you found a $50 bill under the table (Gain).                                            |\n| **Income before taxes**                          | **Total Profit Before the Government.** The final profit number before you pay the IRS (or Japanese tax office).                    | $25 (Ordinary) + $50 (Found Money) = **$75.**                                                                                  |\n| **Income taxes**                                 | **The Government's Cut.** The percentage of your profit you must pay to the government.                                             | The tax office takes 30% of your $75. **Tax = $22.50.**                                                                        |\n| **Net income**                                   | **The Real Profit.** The actual money left in your pocket for the owner. This is the \"bottom line.\"                                 | $75 (Before Tax) - $22.50 (Tax) = **$52.50 Net Income.**                                                                       |\n\n**Key Takeaway:**\nThe statement starts with **Sales** (top line) and subtracts costs step-by-step until you reach **Net Income** (bottom line). Each step tells a different story about how well the business is doing.",
+			"styleAttributes":{},
+			"x":1640,
+			"y":5214,
+			"width":2308,
+			"height":473
+		},
+		{
+			"id":"4a40b026f49f940a",
+			"type":"text",
+			"text":"Basic principles that must be followed when preparing income statements",
+			"styleAttributes":{},
+			"x":1000,
+			"y":3740,
+			"width":260,
+			"height":100
 		},
 		{
 			"id":"730198a8b9336753",
 			"type":"text",
 			"text":"Double-entry bookkeeping",
 			"styleAttributes":{},
-			"x":437,
-			"y":3650,
+			"x":433,
+			"y":6060,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"3"
 		},
 		{
 			"id":"043b37de59df9a10",
 			"type":"text",
 			"text":"Journalization methods used for recording figures related to those items.",
 			"styleAttributes":{},
-			"x":480,
-			"y":3770,
+			"x":400,
+			"y":6420,
 			"width":380,
 			"height":60
 		},
 		{
-			"id":"96b6b7ee1605730a",
+			"id":"a4fde923d37e4584",
 			"type":"text",
-			"text":"Income statements",
+			"text":"Here is a simplified version of that text, rewritten for a beginner, followed by an accuracy check.\n\n### **Simplified Explanation: Double-Entry Bookkeeping**\n\n**The Big Picture**\nThink of financial statements (like the Income Statement and Balance Sheet) as a **snapshot**. They show you exactly what a company owns and owes on a specific day. But to create that snapshot, companies track thousands of daily transactions over time. The system they use to track those daily moves is called **Double-Entry Bookkeeping**.\n\n**How It Works**\nThe golden rule of double-entry bookkeeping is simple: **Every transaction affects two accounts.**\n\nFor every transaction, you must record:\n1.  A **Debit** in one account.\n2.  A **Credit** in another account.\n3.  The amounts must be **exactly equal**.\n\n**A Real-World Example**\nImagine you buy a computer for **200,000 yen** using cash.\n*   **Asset Down:** Your \"Cash\" account goes **down** by 200,000 yen (because you spent it).\n*   **Asset Up:** Your \"Computer/Furniture\" account goes **up** by 200,000 yen (because you now own a new asset).\n\nNotice that the total value of your company's assets hasn't changed; it just moved from one form (cash) to another (equipment). The books stay balanced.\n\n**Why Do We Do It? (3 Key Benefits)**\n1.  **Complete History:** You can track every change in what the company owns.\n2.  **Profit Tracking:** You can clearly see where money comes from (revenue) and where it goes (expenses).\n3.  **Error Detection:** Because debits and credits must always match, it's easy to spot math mistakes if the numbers don't add up.\n\n***\n\n### **Is the Content Accurate?**\n\n**Yes, the text is accurate** regarding fundamental accounting principles. Here is a breakdown:\n\n*   **Definition of Financial Statements:** ✅ **Correct.** Balance sheets and income statements are indeed snapshots of financial health at a specific point in time or over a specific period.\n*   **Double-Entry Definition:** ✅ **Correct.** The core principle that every transaction requires equal debits and credits is the foundation of modern accounting.\n*   **The Example:** ✅ **Correct.** Buying a computer with cash is a classic example of an asset exchange (one asset increases, another decreases).\n*   **The Three Advantages:** ✅ **Correct.**\n    *   *Record of wealth:* Assets, liabilities, and equity are all tracked.\n    *   *Sources of profit/loss:* Revenue and expense accounts allow this.\n    *   *Identify errors:* The \"trial balance\" (checking that total debits equal total credits) is the primary way to find arithmetic errors.\n\n**One Small Nuance:**\nWhile the text says the Balance Sheet shows status \"as of the date indicated,\" it is worth noting that the **Income Statement** covers a *period* of time (e.g., \"for the year ended Dec 31\"), whereas the **Balance Sheet** is strictly a \"snapshot\" at a single moment. The text implies this distinction slightly, but the distinction is technically important for beginners to grasp.\n\n**Verdict:** The explanation is sound, accurate, and correctly applies standard accounting rules (GAAP/IFRS).\n\n",
 			"styleAttributes":{},
-			"x":437,
-			"y":3160,
-			"width":260,
-			"height":60
+			"x":1100,
+			"y":5970,
+			"width":780,
+			"height":1494
 		},
 		{
-			"id":"6e18fef181bd09a7",
+			"id":"2796b8c4e6da3c49",
 			"type":"text",
-			"text":"how to read the income statement",
+			"text":"KEEP EDITING THIS - DIDN'T READ IT YET",
 			"styleAttributes":{},
-			"x":860,
-			"y":3160,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"06cb88c055880158",
-			"type":"text",
-			"text":"What to derive from it",
-			"styleAttributes":{},
-			"x":1220,
-			"y":3190,
+			"x":1820,
+			"y":6720,
 			"width":260,
 			"height":60
 		}
@@ -797,15 +986,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"5709d9b52304dc9d",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"a8ac8bd2567522f5",
-			"fromSide":"right",
-			"toNode":"4d023846312cd7f8",
-			"toSide":"left"
-		},
-		{
 			"id":"b191a884db90f289",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
@@ -818,20 +998,12 @@
 			"id":"3affedc33cea236a",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"730198a8b9336753",
 			"fromSide":"bottom",
 			"toNode":"043b37de59df9a10",
 			"toSide":"top",
 			"label":"?"
-		},
-		{
-			"id":"4687a3bf159084e8",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"6e18fef181bd09a7",
-			"fromSide":"right",
-			"toNode":"06cb88c055880158",
-			"toSide":"left"
 		},
 		{
 			"id":"60587bd30938432d",
@@ -944,12 +1116,195 @@
 			"toSide":"left"
 		},
 		{
-			"id":"36ee26de45ba4822",
+			"id":"c986bbcc0e42e1d3",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"96b6b7ee1605730a",
+			"fromSide":"bottom",
+			"toNode":"0316fc88682f3810",
+			"toSide":"top"
+		},
+		{
+			"id":"d2cc74a2f3cf4717",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromNode":"96b6b7ee1605730a",
 			"fromSide":"right",
-			"toNode":"6e18fef181bd09a7",
+			"toNode":"4a40b026f49f940a",
+			"toSide":"left"
+		},
+		{
+			"id":"f1bb208d125cad97",
+			"styleAttributes":{"pathfindingMethod":"square","path":"short-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"00c68e26b2671cb7",
+			"fromSide":"bottom",
+			"toNode":"16aa3440decca905",
+			"toSide":"top"
+		},
+		{
+			"id":"6b1535a471eecb93",
+			"styleAttributes":{"pathfindingMethod":"square","path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"96b6b7ee1605730a",
+			"fromSide":"top",
+			"toNode":"16aa3440decca905",
+			"toSide":"bottom"
+		},
+		{
+			"id":"5709d9b52304dc9d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"96b6b7ee1605730a",
+			"fromSide":"right",
+			"toNode":"4d023846312cd7f8",
+			"toSide":"left"
+		},
+		{
+			"id":"fcbcc72cb3ea83fe",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"4a40b026f49f940a",
+			"fromSide":"right",
+			"toNode":"e6b96d65920ec8a2",
+			"toSide":"left"
+		},
+		{
+			"id":"3525a2e559d7349a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"4a40b026f49f940a",
+			"fromSide":"right",
+			"toNode":"d735390d63a8920f",
+			"toSide":"left"
+		},
+		{
+			"id":"c34fbeb7b722f97e",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"4a40b026f49f940a",
+			"fromSide":"right",
+			"toNode":"a17166052ebdda29",
+			"toSide":"left"
+		},
+		{
+			"id":"a380db24ead21756",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"4a40b026f49f940a",
+			"fromSide":"right",
+			"toNode":"eaba9948e5355012",
+			"toSide":"left"
+		},
+		{
+			"id":"6084ee20f68cf72a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"e6b96d65920ec8a2",
+			"fromSide":"right",
+			"toNode":"8e027e7966359122",
+			"toSide":"left"
+		},
+		{
+			"id":"c71576c9cdfee059",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"e6b96d65920ec8a2",
+			"fromSide":"right",
+			"toNode":"5b61d7facc17f29f",
+			"toSide":"left"
+		},
+		{
+			"id":"9ed2b9e7e5f44bde",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"e6b96d65920ec8a2",
+			"fromSide":"right",
+			"toNode":"d1fcaf21f724f388",
+			"toSide":"left"
+		},
+		{
+			"id":"5d542325728fda1b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"d735390d63a8920f",
+			"fromSide":"right",
+			"toNode":"c6e8a42473d9e1db",
+			"toSide":"left"
+		},
+		{
+			"id":"2b32aaa4d86e1eaf",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"d735390d63a8920f",
+			"fromSide":"right",
+			"toNode":"b173f65f5f8f6f2e",
+			"toSide":"left"
+		},
+		{
+			"id":"3cdd6b5f47b369b3",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a17166052ebdda29",
+			"fromSide":"right",
+			"toNode":"0d3f7a4b674e92d1",
+			"toSide":"left"
+		},
+		{
+			"id":"42aec109e48c05b6",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a17166052ebdda29",
+			"fromSide":"right",
+			"toNode":"12703ea1f2ba7148",
+			"toSide":"left"
+		},
+		{
+			"id":"e026e8c1169e8926",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"eaba9948e5355012",
+			"fromSide":"right",
+			"toNode":"f6ce7d428550b62f",
+			"toSide":"left"
+		},
+		{
+			"id":"a254a03303ea879a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"eaba9948e5355012",
+			"fromSide":"right",
+			"toNode":"ac8720d38e8eb654",
+			"toSide":"left"
+		},
+		{
+			"id":"99c3ad9fedd1bd06",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"eaba9948e5355012",
+			"fromSide":"right",
+			"toNode":"8fc6804196d25ad2",
+			"toSide":"left"
+		},
+		{
+			"id":"c6c580d0943a88aa",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"4d023846312cd7f8",
+			"fromSide":"right",
+			"toNode":"0d1b75d93ede3ad4",
+			"toSide":"left"
+		},
+		{
+			"id":"c744c15e34ddc825",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"730198a8b9336753",
+			"fromSide":"right",
+			"toNode":"a4fde923d37e4584",
 			"toSide":"left"
 		}
 	],

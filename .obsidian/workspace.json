@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d90a7db0afbe5574",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "mindmap.canvas",
-                "viewState": {
-                  "x": 3155.66608342001,
-                  "y": 3512.1125140149647,
-                  "zoom": -0.4000000000000006
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "mindmap"
-            }
-          },
-          {
             "id": "00a4b0c52a38d85b",
             "type": "leaf",
             "state": {
@@ -32,17 +15,16 @@
               "state": {
                 "file": "mindmap.canvas",
                 "viewState": {
-                  "x": 863.9913605086467,
-                  "y": 3466.8175579377894,
-                  "zoom": -0.40000000000000013
+                  "x": 1682.2092573821571,
+                  "y": 6507.796779402837,
+                  "zoom": -1.4
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "mindmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
