@@ -15,9 +15,9 @@
               "state": {
                 "file": "mindmap.canvas",
                 "viewState": {
-                  "x": 1682.2092573821571,
-                  "y": 6507.796779402837,
-                  "zoom": -1.4
+                  "x": 316.42355851079435,
+                  "y": 8798.281631495393,
+                  "zoom": -0.19999999999999984
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2691be697c0f771f",

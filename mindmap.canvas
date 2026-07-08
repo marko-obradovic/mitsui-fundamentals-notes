@@ -333,50 +333,6 @@
 			"color":"4"
 		},
 		{
-			"id":"96b6b7ee1605730a",
-			"type":"text",
-			"text":"Income statements\nAka Profit & Loss statement (P/L)",
-			"styleAttributes":{},
-			"x":438,
-			"y":3760,
-			"width":294,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"0316fc88682f3810",
-			"type":"text",
-			"text":"**Income statement:**\nA report showing how much money a company made versus spent over a period of time. It breaks down every transaction to show the final profit or loss.",
-			"styleAttributes":{},
-			"x":405,
-			"y":3920,
-			"width":361,
-			"height":145,
-			"color":"4"
-		},
-		{
-			"id":"00c68e26b2671cb7",
-			"type":"text",
-			"text":"Balance sheet (B/S)",
-			"styleAttributes":{},
-			"x":437,
-			"y":3260,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{"id":"a8ac8bd2567522f5","type":"text","text":"Accounting Fundamentals","x":51,"y":3520,"width":250,"height":60,"color":"2"},
-		{
-			"id":"16aa3440decca905",
-			"type":"text",
-			"text":"Because they:\n- cover the same time period\n- rely on the same numbers\ncompanies prepare them **at the same time**.\n\nOnce they’re done, they are sent to the people who own or loan money to the company so everyone knows if the business is healthy.",
-			"styleAttributes":{},
-			"x":437,
-			"y":3431,
-			"width":403,
-			"height":239
-		},
-		{
 			"id":"8511c544793d7285",
 			"type":"text",
 			"text":"**Balance Sheet**  \nA financial statement that shows a snapshot of a company's assets, liabilities, and shareholders' equity at a specific point in time. It represents the accounting equation:\n\n$\\text{Assets} = \\text{Liabilities} + \\text{Equity}$\n\nIn consolidated financial statements, the balance sheet is called the consolidated statement of financial position. It provides shareholders, creditors, and other stakeholders with a snapshot of the company's financial position at the balance sheet date.",
@@ -418,36 +374,6 @@
 			"height":624
 		},
 		{
-			"id":"4b32b6d6d76d0bb6",
-			"type":"text",
-			"text":"\n# **LIABILITIES**\n\n## **Current liabilities (short-term obligations)**\n\nDebts the company must pay within 1 year.\n\n- **Notes payable** → Written promises to pay a specific amount in the short term.\n    \n- **Trade accounts payable** → Money owed to suppliers for goods/services received on credit.\n    \n- **Short-term loans** → Borrowed money that must be repaid within a year.\n    \n- **Other accounts payable** → Miscellaneous short-term debts (e.g. unpaid expenses).\n    \n- **Receipts in advance** → Money received before delivering goods/services (a liability until fulfilled).\n    \n- **Other current liabilities** → Any other short-term obligations not listed above.\n    \n## **Long-term liabilities (long-term obligations)**\n\nDebts due after more than 1 year.\n\n- **Corporate bonds** → Money borrowed from investors through issued bonds.\n    \n- **Long-term debt** → Loans or borrowings repayable over a longer period.\n    \n- **Liability for retirement benefits** → Future pension/retirement payments owed to employees.\n    \n- **Other long-term liabilities** → Any other long-term financial obligations.\n    ",
-			"styleAttributes":{},
-			"x":2800,
-			"y":2743,
-			"width":820,
-			"height":580
-		},
-		{
-			"id":"997723c4f27b2676",
-			"type":"text",
-			"text":"# **EQUITY (Shareholders’ Equity)**\n\n$\\text{Shareholders’ equity} = \\text{Capital} + \\text{Reserves} + \\text{Adjustments} + \\text{Retained earnings} + \\text{etc.}$\n## **Components of Equity**\n\n* **Capital (Share capital)** → Money invested into the company by shareholders when shares are issued.\n* **Capital surplus** → Extra money paid by shareholders above the nominal (face) value of shares.\n* **Retained earnings** → Accumulated profits that the company has kept instead of paying out as dividends.\n* **Valuation and translation adjustments** → Changes in equity caused by asset revaluations or foreign currency exchange differences.\n* **New share subscription rights** → Rights that allow holders to buy new shares in the future at a set price.\n    ",
-			"styleAttributes":{},
-			"x":2800,
-			"y":3433,
-			"width":1067,
-			"height":387
-		},
-		{
-			"id":"3b6e412ce2420555",
-			"type":"text",
-			"text":"\n\nWhen the company makes a loss, retained earnings decrease, reducing equity and the value of shareholders' investment.\n\nIf a company’s liabilities exceed its assets, it has a negative net worth (capital deficit) - this means it's insolvent.\n\nIn this situation, a company may enter bankruptcy, or liquidation and the following happens:\n\n1. The company **sells its assets** (cash, buildings, equipment)  \n    → This generates money\n2. That money is used to **pay liabilities (debts)**  \n    → Bank loans, suppliers, etc.\n3. After all debts are paid, whatever is left goes to **shareholders (equity holders)**\n",
-			"styleAttributes":{},
-			"x":3980,
-			"y":3433,
-			"width":660,
-			"height":393
-		},
-		{
 			"id":"dbad93025f9ff34f",
 			"type":"text",
 			"text":"**Liquidation:**\nSelling a company's assets to pay its liabilities and shut it down",
@@ -468,161 +394,6 @@
 			"width":304,
 			"height":80,
 			"color":"4"
-		},
-		{
-			"id":"e088bb3a1b1ad13f",
-			"type":"text",
-			"text":"Because Mitsui could lose money if a customer goes bankrupt and cannot pay what they owe, it is important to be careful when Mitsui is lending or providing credit.\n\nBalance sheets are useful not only for understanding our own company’s financial health, but also for checking the financial position of customers, partners, and competitors.",
-			"styleAttributes":{},
-			"x":4069,
-			"y":3953,
-			"width":483,
-			"height":194,
-			"color":"5"
-		},
-		{
-			"id":"e6b96d65920ec8a2",
-			"type":"text",
-			"text":"Accrual",
-			"styleAttributes":{},
-			"x":1360,
-			"y":3540,
-			"width":104,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"d1fcaf21f724f388",
-			"type":"text",
-			"text":"# Example\n\nImagine you buy a new outfit for work on **March 31st** using a credit card. You don’t actually send money to the store until **April 15th**.\n\n- **The Accrual View:** The expense is recorded in **March**.\n- **Why?** Because you received the clothes and used them in March. The fact that you haven't sent the cash yet is just a timing difference in payment, not a difference in when the cost happened.\n",
-			"styleAttributes":{},
-			"x":1704,
-			"y":3447,
-			"width":600,
-			"height":246
-		},
-		{
-			"id":"8e027e7966359122",
-			"type":"text",
-			"text":"**Record expenses when you _get_ the goods or service, not when you _pay_ for them.**\n\nIt doesn’t matter if you pay cash today or use a credit card to pay next month. If you used the item this month, the expense belongs on this month’s books.\n\n",
-			"styleAttributes":{},
-			"x":1704,
-			"y":3323,
-			"width":680,
-			"height":105
-		},
-		{
-			"id":"5b61d7facc17f29f",
-			"type":"text",
-			"text":"\n### Why This Matters\n\nThis rule ensures your financial reports are **accurate**.\n\n- If you waited until April to record the cost, your March report would look like you made more profit than you actually did (because you had the clothes but no expense listed).\n- By recording it in March, you match the **cost** of the clothes with the **revenue** you earned while wearing them. This is called **Matching**, and it’s the heart of accurate accounting.\n\n**In short:** If you \"incurred\" the cost (used the service/good), it counts as an expense _now_, even if the cash leaves your bank account _later_.",
-			"styleAttributes":{},
-			"x":1704,
-			"y":3735,
-			"width":700,
-			"height":330
-		},
-		{
-			"id":"0d3f7a4b674e92d1",
-			"type":"text",
-			"text":"- **The Rule:** You must record the **total** amount of revenue and expenses, not just the final profit.\n",
-			"styleAttributes":{},
-			"x":1704,
-			"y":4330,
-			"width":960,
-			"height":60
-		},
-		{
-			"id":"12703ea1f2ba7148",
-			"type":"text",
-			"text":"- **Why?** If you only recorded the \"profit\" (e.g., sold for $100, cost $60, profit $40), stakeholders wouldn't know the **scale** of your business.\n    - Company A: Made $100 revenue, $100 cost = $0 profit.\n    - Company B: Made $1,000,000 revenue, $1,000,000 cost = $0 profit.\n    - Both have $0 profit, but Company B is much larger. The Gross Amount Principle ensures we see the full $1M in revenue to understand the business size.",
-			"styleAttributes":{},
-			"x":1704,
-			"y":4406,
-			"width":960,
-			"height":188
-		},
-		{
-			"id":"ac8720d38e8eb654",
-			"type":"text",
-			"text":"- **The Logic:** You don't count the cost of making a product until you actually sell it. The idea is to match expenses to the revenues generated\n",
-			"styleAttributes":{},
-			"x":1704,
-			"y":4770,
-			"width":980,
-			"height":70
-		},
-		{
-			"id":"8fc6804196d25ad2",
-			"type":"text",
-			"text":"- **Example (Clothing Manufacturer):**\n    1. **Making the clothes:** You buy fabric and pay workers. You haven't sold the clothes yet, so you don't count this as an **expense** on the Income Statement. Instead, you record it as an **asset** (Inventory) on the Balance Sheet.\n    2. **Selling the clothes:** Once sold, you move that cost from \"Inventory\" to **Cost of Goods Sold** (an expense).\n    3. **The Match:** Now, the **Revenue** (from the sale) and the **Expense** (the cost of materials/labor) appear on the Income Statement at the same time. This gives you the true profit for that specific item.",
-			"styleAttributes":{},
-			"x":1704,
-			"y":4870,
-			"width":980,
-			"height":188
-		},
-		{
-			"id":"c6e8a42473d9e1db",
-			"type":"text",
-			"text":"- **The Rule:** You only count revenue when it is **actually earned**, meaning the goods are delivered or the service is performed.\n",
-			"styleAttributes":{},
-			"x":1704,
-			"y":4097,
-			"width":760,
-			"height":58
-		},
-		{
-			"id":"b173f65f5f8f6f2e",
-			"type":"text",
-			"text":"- **Why?** You cannot count money you _hope_ to make. If you manufacture a shirt but haven't sold it yet, you cannot count that as revenue. You only count it when a customer buys it.\n",
-			"styleAttributes":{},
-			"x":1704,
-			"y":4189,
-			"width":760,
-			"height":58
-		},
-		{
-			"id":"a17166052ebdda29",
-			"type":"text",
-			"text":"Gross amount",
-			"styleAttributes":{},
-			"x":1360,
-			"y":4390,
-			"width":151,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"eaba9948e5355012",
-			"type":"text",
-			"text":"Matching Principles",
-			"styleAttributes":{},
-			"x":1360,
-			"y":4670,
-			"width":194,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"d735390d63a8920f",
-			"type":"text",
-			"text":"Realization",
-			"styleAttributes":{},
-			"x":1360,
-			"y":4158,
-			"width":128,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"f6ce7d428550b62f",
-			"type":"text",
-			"text":"- **The Rule:** Expenses must be recorded in the **same period** as the revenue they helped generate. When you sell, it's counted as an **expense** on the income statement. Before, it's an **asset** on the Balance sheet",
-			"styleAttributes":{},
-			"x":1704,
-			"y":4657,
-			"width":791,
-			"height":87
 		},
 		{
 			"id":"4d023846312cd7f8",
@@ -646,16 +417,6 @@
 			"height":473
 		},
 		{
-			"id":"4a40b026f49f940a",
-			"type":"text",
-			"text":"Basic principles that must be followed when preparing income statements",
-			"styleAttributes":{},
-			"x":1000,
-			"y":3740,
-			"width":260,
-			"height":100
-		},
-		{
 			"id":"730198a8b9336753",
 			"type":"text",
 			"text":"Double-entry bookkeeping",
@@ -667,34 +428,355 @@
 			"color":"3"
 		},
 		{
-			"id":"043b37de59df9a10",
-			"type":"text",
-			"text":"Journalization methods used for recording figures related to those items.",
-			"styleAttributes":{},
-			"x":400,
-			"y":6420,
-			"width":380,
-			"height":60
-		},
-		{
 			"id":"a4fde923d37e4584",
 			"type":"text",
-			"text":"Here is a simplified version of that text, rewritten for a beginner, followed by an accuracy check.\n\n### **Simplified Explanation: Double-Entry Bookkeeping**\n\n**The Big Picture**\nThink of financial statements (like the Income Statement and Balance Sheet) as a **snapshot**. They show you exactly what a company owns and owes on a specific day. But to create that snapshot, companies track thousands of daily transactions over time. The system they use to track those daily moves is called **Double-Entry Bookkeeping**.\n\n**How It Works**\nThe golden rule of double-entry bookkeeping is simple: **Every transaction affects two accounts.**\n\nFor every transaction, you must record:\n1.  A **Debit** in one account.\n2.  A **Credit** in another account.\n3.  The amounts must be **exactly equal**.\n\n**A Real-World Example**\nImagine you buy a computer for **200,000 yen** using cash.\n*   **Asset Down:** Your \"Cash\" account goes **down** by 200,000 yen (because you spent it).\n*   **Asset Up:** Your \"Computer/Furniture\" account goes **up** by 200,000 yen (because you now own a new asset).\n\nNotice that the total value of your company's assets hasn't changed; it just moved from one form (cash) to another (equipment). The books stay balanced.\n\n**Why Do We Do It? (3 Key Benefits)**\n1.  **Complete History:** You can track every change in what the company owns.\n2.  **Profit Tracking:** You can clearly see where money comes from (revenue) and where it goes (expenses).\n3.  **Error Detection:** Because debits and credits must always match, it's easy to spot math mistakes if the numbers don't add up.\n\n***\n\n### **Is the Content Accurate?**\n\n**Yes, the text is accurate** regarding fundamental accounting principles. Here is a breakdown:\n\n*   **Definition of Financial Statements:** ✅ **Correct.** Balance sheets and income statements are indeed snapshots of financial health at a specific point in time or over a specific period.\n*   **Double-Entry Definition:** ✅ **Correct.** The core principle that every transaction requires equal debits and credits is the foundation of modern accounting.\n*   **The Example:** ✅ **Correct.** Buying a computer with cash is a classic example of an asset exchange (one asset increases, another decreases).\n*   **The Three Advantages:** ✅ **Correct.**\n    *   *Record of wealth:* Assets, liabilities, and equity are all tracked.\n    *   *Sources of profit/loss:* Revenue and expense accounts allow this.\n    *   *Identify errors:* The \"trial balance\" (checking that total debits equal total credits) is the primary way to find arithmetic errors.\n\n**One Small Nuance:**\nWhile the text says the Balance Sheet shows status \"as of the date indicated,\" it is worth noting that the **Income Statement** covers a *period* of time (e.g., \"for the year ended Dec 31\"), whereas the **Balance Sheet** is strictly a \"snapshot\" at a single moment. The text implies this distinction slightly, but the distinction is technically important for beginners to grasp.\n\n**Verdict:** The explanation is sound, accurate, and correctly applies standard accounting rules (GAAP/IFRS).\n\n",
+			"text":"**Financial statements** (**Income Statement** and **Balance Sheet**) are **summaries** of a company's financial activities and position. To create those summaries, companies record thousands of daily transactions over time. The system used to record those transactions is called **double-entry bookkeeping**.\n",
 			"styleAttributes":{},
 			"x":1100,
-			"y":5970,
-			"width":780,
-			"height":1494
+			"y":5920,
+			"width":1020,
+			"height":100
 		},
 		{
-			"id":"2796b8c4e6da3c49",
+			"id":"4f45bd517a6ff663",
 			"type":"text",
-			"text":"KEEP EDITING THIS - DIDN'T READ IT YET",
+			"text":"\n**How It Works**\nThe golden rule of double-entry bookkeeping is simple: **Every transaction affects two accounts.**\n\nFor every transaction, you must record:\n1.  A **Debit** in one account.\n2.  A **Credit** in another account.\n3.  The amounts must be **exactly equal**.\n",
 			"styleAttributes":{},
-			"x":1820,
-			"y":6720,
-			"width":260,
+			"x":1100,
+			"y":6060,
+			"width":771,
+			"height":241
+		},
+		{
+			"id":"cadc964d322790b5",
+			"type":"text",
+			"text":"**Why do we do it? (3 Key Benefits)**\n1.  **Complete History:** You can track every change in what the company owns.\n2.  **Profit Tracking:** You can clearly see where money comes from (revenue) and where it goes (expenses).\n3.  **Error Detection:** Because debits and credits must always match, it's easy to spot math mistakes if the numbers don't add up.",
+			"styleAttributes":{},
+			"x":1100,
+			"y":6580,
+			"width":1040,
+			"height":144
+		},
+		{
+			"id":"0e43e5fab348bf09",
+			"type":"text",
+			"text":"\n**A Real-World Example**\nImagine you buy a computer for **200,000 yen** using cash.\n*   **Asset Down:** Your \"Cash\" account goes **down** by 200,000 yen (because you spent it).\n*   **Asset Up:** Your \"Computer/Furniture\" account goes **up** by 200,000 yen (because you now own a new asset).\n\nNotice that the total value of your company's assets hasn't changed; it just moved from one form (cash) to another (equipment). The books stay balanced.\n\n",
+			"styleAttributes":{},
+			"x":1100,
+			"y":6340,
+			"width":1020,
+			"height":215
+		},
+		{
+			"id":"8fc6804196d25ad2",
+			"type":"text",
+			"text":"- **Example (Clothing Manufacturer):**\n    1. **Making the clothes:** You buy fabric and pay workers. You haven't sold the clothes yet, so you don't count this as an **expense** on the Income Statement. Instead, you record it as an **asset** (Inventory) on the Balance Sheet.\n    2. **Selling the clothes:** Once sold, you move that cost from \"Inventory\" to **Cost of Goods Sold** (an expense).\n    3. **The Match:** Now, the **Revenue** (from the sale) and the **Expense** (the cost of materials/labor) appear on the Income Statement at the same time. This gives you the true profit for that specific item.",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4870,
+			"width":980,
+			"height":188
+		},
+		{
+			"id":"ac8720d38e8eb654",
+			"type":"text",
+			"text":"- **The Logic:** You don't count the cost of making a product until you actually sell it. The idea is to match expenses to the revenues generated\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4770,
+			"width":980,
+			"height":70
+		},
+		{
+			"id":"f6ce7d428550b62f",
+			"type":"text",
+			"text":"- **The Rule:** Expenses must be recorded in the **same period** as the revenue they helped generate. When you sell, it's counted as an **expense** on the income statement. Before, it's an **asset** on the Balance sheet",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4657,
+			"width":791,
+			"height":87
+		},
+		{
+			"id":"eaba9948e5355012",
+			"type":"text",
+			"text":"Matching Principles",
+			"styleAttributes":{},
+			"x":1360,
+			"y":4670,
+			"width":194,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"12703ea1f2ba7148",
+			"type":"text",
+			"text":"- **Why?** If you only recorded the \"profit\" (e.g., sold for $100, cost $60, profit $40), stakeholders wouldn't know the **scale** of your business.\n    - Company A: Made $100 revenue, $100 cost = $0 profit.\n    - Company B: Made $1,000,000 revenue, $1,000,000 cost = $0 profit.\n    - Both have $0 profit, but Company B is much larger. The Gross Amount Principle ensures we see the full $1M in revenue to understand the business size.",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4406,
+			"width":960,
+			"height":188
+		},
+		{
+			"id":"a17166052ebdda29",
+			"type":"text",
+			"text":"Gross amount",
+			"styleAttributes":{},
+			"x":1360,
+			"y":4390,
+			"width":151,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"0d3f7a4b674e92d1",
+			"type":"text",
+			"text":"- **The Rule:** You must record the **total** amount of revenue and expenses, not just the final profit.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4330,
+			"width":960,
 			"height":60
+		},
+		{
+			"id":"b173f65f5f8f6f2e",
+			"type":"text",
+			"text":"- **Why?** You cannot count money you _hope_ to make. If you manufacture a shirt but haven't sold it yet, you cannot count that as revenue. You only count it when a customer buys it.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4189,
+			"width":760,
+			"height":58
+		},
+		{
+			"id":"d735390d63a8920f",
+			"type":"text",
+			"text":"Realization",
+			"styleAttributes":{},
+			"x":1360,
+			"y":4158,
+			"width":128,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"c6e8a42473d9e1db",
+			"type":"text",
+			"text":"- **The Rule:** You only count revenue when it is **actually earned**, meaning the goods are delivered or the service is performed.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":4097,
+			"width":760,
+			"height":58
+		},
+		{
+			"id":"0316fc88682f3810",
+			"type":"text",
+			"text":"**Income statement:**\nA report showing how much money a company made versus spent over a period of time. It breaks down every transaction to show the final profit or loss.",
+			"styleAttributes":{},
+			"x":405,
+			"y":3920,
+			"width":361,
+			"height":145,
+			"color":"4"
+		},
+		{
+			"id":"5b61d7facc17f29f",
+			"type":"text",
+			"text":"\n### Why This Matters\n\nThis rule ensures your financial reports are **accurate**.\n\n- If you waited until April to record the cost, your March report would look like you made more profit than you actually did (because you had the clothes but no expense listed).\n- By recording it in March, you match the **cost** of the clothes with the **revenue** you earned while wearing them. This is called **Matching**, and it’s the heart of accurate accounting.\n\n**In short:** If you \"incurred\" the cost (used the service/good), it counts as an expense _now_, even if the cash leaves your bank account _later_.",
+			"styleAttributes":{},
+			"x":1704,
+			"y":3735,
+			"width":700,
+			"height":330
+		},
+		{
+			"id":"96b6b7ee1605730a",
+			"type":"text",
+			"text":"Income statements\nAka Profit & Loss statement (P/L)",
+			"styleAttributes":{},
+			"x":438,
+			"y":3760,
+			"width":294,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"997723c4f27b2676",
+			"type":"text",
+			"text":"# **EQUITY (Shareholders’ Equity)**\n\n$\\text{Shareholders’ equity} = \\text{Capital} + \\text{Reserves} + \\text{Adjustments} + \\text{Retained earnings} + \\text{etc.}$\n## **Components of Equity**\n\n* **Capital (Share capital)** → Money invested into the company by shareholders when shares are issued.\n* **Capital surplus** → Extra money paid by shareholders above the nominal (face) value of shares.\n* **Retained earnings** → Accumulated profits that the company has kept instead of paying out as dividends.\n* **Valuation and translation adjustments** → Changes in equity caused by asset revaluations or foreign currency exchange differences.\n* **New share subscription rights** → Rights that allow holders to buy new shares in the future at a set price.\n    ",
+			"styleAttributes":{},
+			"x":2800,
+			"y":3433,
+			"width":1067,
+			"height":387
+		},
+		{
+			"id":"4a40b026f49f940a",
+			"type":"text",
+			"text":"Basic principles that must be followed when preparing income statements",
+			"styleAttributes":{},
+			"x":1000,
+			"y":3740,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"d1fcaf21f724f388",
+			"type":"text",
+			"text":"# Example\n\nImagine you buy a new outfit for work on **March 31st** using a credit card. You don’t actually send money to the store until **April 15th**.\n\n- **The Accrual View:** The expense is recorded in **March**.\n- **Why?** Because you received the clothes and used them in March. The fact that you haven't sent the cash yet is just a timing difference in payment, not a difference in when the cost happened.\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":3447,
+			"width":600,
+			"height":246
+		},
+		{"id":"a8ac8bd2567522f5","type":"text","text":"Accounting Fundamentals","x":51,"y":3520,"width":250,"height":60,"color":"2"},
+		{
+			"id":"16aa3440decca905",
+			"type":"text",
+			"text":"Because they:\n- cover the same time period\n- rely on the same numbers\ncompanies prepare them **at the same time**.\n\nOnce they’re done, they are sent to the people who own or loan money to the company so everyone knows if the business is healthy.",
+			"styleAttributes":{},
+			"x":437,
+			"y":3431,
+			"width":403,
+			"height":239
+		},
+		{
+			"id":"e6b96d65920ec8a2",
+			"type":"text",
+			"text":"Accrual",
+			"styleAttributes":{},
+			"x":1360,
+			"y":3540,
+			"width":104,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"8e027e7966359122",
+			"type":"text",
+			"text":"**Record expenses when you _get_ the goods or service, not when you _pay_ for them.**\n\nIt doesn’t matter if you pay cash today or use a credit card to pay next month. If you used the item this month, the expense belongs on this month’s books.\n\n",
+			"styleAttributes":{},
+			"x":1704,
+			"y":3323,
+			"width":680,
+			"height":105
+		},
+		{
+			"id":"00c68e26b2671cb7",
+			"type":"text",
+			"text":"Balance sheet (B/S)",
+			"styleAttributes":{},
+			"x":437,
+			"y":3260,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"4b32b6d6d76d0bb6",
+			"type":"text",
+			"text":"\n# **LIABILITIES**\n\n## **Current liabilities (short-term obligations)**\n\nDebts the company must pay within 1 year.\n\n- **Notes payable** → Written promises to pay a specific amount in the short term.\n    \n- **Trade accounts payable** → Money owed to suppliers for goods/services received on credit.\n    \n- **Short-term loans** → Borrowed money that must be repaid within a year.\n    \n- **Other accounts payable** → Miscellaneous short-term debts (e.g. unpaid expenses).\n    \n- **Receipts in advance** → Money received before delivering goods/services (a liability until fulfilled).\n    \n- **Other current liabilities** → Any other short-term obligations not listed above.\n    \n## **Long-term liabilities (long-term obligations)**\n\nDebts due after more than 1 year.\n\n- **Corporate bonds** → Money borrowed from investors through issued bonds.\n    \n- **Long-term debt** → Loans or borrowings repayable over a longer period.\n    \n- **Liability for retirement benefits** → Future pension/retirement payments owed to employees.\n    \n- **Other long-term liabilities** → Any other long-term financial obligations.\n    ",
+			"styleAttributes":{},
+			"x":2800,
+			"y":2743,
+			"width":820,
+			"height":580
+		},
+		{
+			"id":"3b6e412ce2420555",
+			"type":"text",
+			"text":"\n\nWhen the company makes a loss, retained earnings decrease, reducing equity and the value of shareholders' investment.\n\nIf a company’s liabilities exceed its assets, it has a negative net worth (capital deficit) - this means it's insolvent.\n\nIn this situation, a company may enter bankruptcy, or liquidation and the following happens:\n\n1. The company **sells its assets** (cash, buildings, equipment)  \n    → This generates money\n2. That money is used to **pay liabilities (debts)**  \n    → Bank loans, suppliers, etc.\n3. After all debts are paid, whatever is left goes to **shareholders (equity holders)**\n",
+			"styleAttributes":{},
+			"x":3980,
+			"y":3433,
+			"width":660,
+			"height":393
+		},
+		{
+			"id":"86dbb34525af7595",
+			"type":"text",
+			"text":"Account",
+			"styleAttributes":{},
+			"x":2400,
+			"y":6163,
+			"width":109,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"3c52e0bd77dcf288",
+			"type":"text",
+			"text":"Journal entry ",
+			"styleAttributes":{},
+			"x":460,
+			"y":6500,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"e088bb3a1b1ad13f",
+			"type":"text",
+			"text":"Because Mitsui could lose money if a customer goes bankrupt and cannot pay what they owe, it is important to be careful when Mitsui is lending or providing credit.\n\nBalance sheets are useful not only for understanding our own company’s financial health, but also for checking the financial position of customers, partners, and competitors.",
+			"styleAttributes":{},
+			"x":4069,
+			"y":3953,
+			"width":483,
+			"height":194,
+			"color":"5"
+		},
+		{
+			"id":"fe7701c3064d526f",
+			"type":"text",
+			"text":"The key thing is that when it says:\n\n> \"one account is debited by a certain amount, and another account is credited by an equal amount\"\n\nit means:\n\n> \"Create journal records that reference two different account IDs, with equal and opposite effects.\"\n\n---\n\nExample:\n\n> Buy a computer for 200,000 yen in cash.\n\nThe business event is:\n\n> Cash decreased. Computer asset increased.\n\nIn accounting language:\n\n```\nDebit:  Computer account    + ¥200,000\nCredit: Cash account        - ¥200,000\n```\n\nIn database terms, you might store:\n\n### Accounts\nAn **Account** is a row in a master table that defines a financial category. It's basically a table in a database.\n\n```\nid     name\n--------------\n1000   Cash\n1500   Computer Equipment\n4000   Sales Revenue\n5000   Rent Expense\n```\nThis says:\n\n> \"These are the valid categories that financial transactions can affect.\"\n\n### Journal Entry\nA **Journal Entry** represents one business event.\n\nIt is the header/parent record that groups related changes together.\n\n```\nid     description\n----------------------------\n1      Bought computer\n```\n\nThis says:\n\n> \"A transaction happened called 'Bought computer'.\"\n\nIt does not say exactly what changed yet.\n\n### Journal Lines\nYou then have a **Journal Lines** table that holds the actual transactions\n\n\n```\nentry_id   account_id   debit     credit\n------------------------------------------------\n1          1500         200000    0\n1          1000         0         200000\n```\n\nThis says:\n\nLine 1:\n\n> \"For entry 1, affect the Computer Equipment account with a debit of 200,000.\"\n\nLine 2:\n\n> \"For entry 1, affect the Cash account with a credit of 200,000.\"\n---\n\n### What does \"debit\" and \"credit\" actually mean?\n\nThis is where accounting gets confusing.\n\nA debit is **not automatically \"money coming in.\"**\n\nA credit is **not automatically \"money going out.\"**\n\nThey are just the **left and right sides** of the accounting equation.\n\nHistorically:\n\n```\nDebit = left side\nCredit = right side\n```\n\nDifferent account types increase on different sides:\n\n|Account type|Increase with|Decrease with|\n|---|---|---|\n|Assets (Cash, Equipment)|Debit|Credit|\n|Liabilities (Loans)|Credit|Debit|\n|Equity|Credit|Debit|\n|Revenue|Credit|Debit|\n|Expenses|Debit|Credit|\n\nSo:\n\nBuying equipment:\n\n```\nEquipment (Asset)\n+200,000\n= Debit\n\nCash (Asset)\n-200,000\n= Credit\n```\n\n---\n\n### Why does the PDF say \"dual nature\"?\n\nBecause every business transaction has **two effects**.\n\nBuying a computer is not simply:\n\n> \"Money disappeared.\"\n\nIt is:\n\n> \"Cash changed into another asset.\"\n\nThe accounting system refuses to record a transaction with only one side.\n\nA bad entry:\n\n```\nCash   -200,000\n```\n\nwould make no sense because the accounting system would ask:\n\n> \"Where did the value go?\"\n\nThe double-entry version answers:\n\n```\nCash              -200,000\nComputer          +200,000\n```\n\nThe total value is preserved.",
+			"styleAttributes":{},
+			"x":-110,
+			"y":6897,
+			"width":1400,
+			"height":3477
+		},
+		{
+			"id":"88a12a9706055cdc",
+			"type":"text",
+			"text":"\n\n```\nid     name\n--------------\n1000   Cash\n1500   Computer Equipment\n```\n",
+			"styleAttributes":{},
+			"x":2255,
+			"y":8213,
+			"width":820,
+			"height":346
+		},
+		{
+			"id":"933e1f699b7b1dc9",
+			"type":"text",
+			"text":"**Difference:**\nAn account is LITERALLY just a tag.\n\nIt's not actually storing financial data, it's a reference for the Journal to hook into and say, that some record is tagged as Cash (meaning it's part of the cash account)\n\nSo when you select all entries from journal that's part of the account id representing cash, you have basically the journal for that account",
+			"styleAttributes":{},
+			"x":3380,
+			"y":8660,
+			"width":673,
+			"height":210
+		},
+		{
+			"id":"c5ba70bb264d7941",
+			"type":"text",
+			"text":"\n\n```\nid     description\n----------------------------\n1      Bought computer\n```\n",
+			"styleAttributes":{},
+			"x":2255,
+			"y":9140,
+			"width":820,
+			"height":370
+		},
+		{
+			"id":"b58e86ba4f0d421d",
+			"type":"text",
+			"text":"\n```\nentry_id   account_id   debit     credit\n------------------------------------------------\n1          1500         200000    0\n1          1000         0         200000\n```\n",
+			"styleAttributes":{},
+			"x":2255,
+			"y":8720,
+			"width":820,
+			"height":274
 		}
 	],
 	"edges":[
@@ -993,17 +1075,6 @@
 			"fromSide":"right",
 			"toNode":"730198a8b9336753",
 			"toSide":"left"
-		},
-		{
-			"id":"3affedc33cea236a",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"730198a8b9336753",
-			"fromSide":"bottom",
-			"toNode":"043b37de59df9a10",
-			"toSide":"top",
-			"label":"?"
 		},
 		{
 			"id":"60587bd30938432d",
@@ -1306,6 +1377,116 @@
 			"fromSide":"right",
 			"toNode":"a4fde923d37e4584",
 			"toSide":"left"
+		},
+		{
+			"id":"2aa3274c1a8033f4",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"730198a8b9336753",
+			"fromSide":"right",
+			"toNode":"4f45bd517a6ff663",
+			"toSide":"left"
+		},
+		{
+			"id":"5dc91b122f87988d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"730198a8b9336753",
+			"fromSide":"right",
+			"toNode":"0e43e5fab348bf09",
+			"toSide":"left"
+		},
+		{
+			"id":"d8b494b607635ce3",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"730198a8b9336753",
+			"fromSide":"right",
+			"toNode":"cadc964d322790b5",
+			"toSide":"left"
+		},
+		{
+			"id":"2c33c65d35b9ff53",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"730198a8b9336753",
+			"fromSide":"bottom",
+			"toNode":"3c52e0bd77dcf288",
+			"toSide":"top"
+		},
+		{
+			"id":"426dfbd022bc5dd6",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"3c52e0bd77dcf288",
+			"fromSide":"bottom",
+			"toNode":"fe7701c3064d526f",
+			"toSide":"top"
+		},
+		{
+			"id":"59dc96e842807395",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"4f45bd517a6ff663",
+			"fromSide":"right",
+			"toNode":"86dbb34525af7595",
+			"toSide":"left"
+		},
+		{
+			"id":"57729de186d6baf8",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"86dbb34525af7595",
+			"fromSide":"right",
+			"toNode":"88a12a9706055cdc",
+			"toSide":"top"
+		},
+		{
+			"id":"1a624f901d68ce13",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b58e86ba4f0d421d",
+			"fromSide":"top",
+			"toNode":"88a12a9706055cdc",
+			"toSide":"bottom"
+		},
+		{
+			"id":"efbdab5163532e97",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b58e86ba4f0d421d",
+			"fromSide":"right",
+			"toNode":"933e1f699b7b1dc9",
+			"toSide":"left"
+		},
+		{
+			"id":"a56516dcbbacafac",
+			"styleAttributes":{"pathfindingMethod":"square","path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"fe7701c3064d526f",
+			"fromSide":"right",
+			"toNode":"88a12a9706055cdc",
+			"toSide":"left"
+		},
+		{
+			"id":"2444bceae222e1a6",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"88a12a9706055cdc",
+			"fromSide":"right",
+			"toNode":"933e1f699b7b1dc9",
+			"toSide":"left"
+		},
+		{
+			"id":"bffd51084a482edb",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"c5ba70bb264d7941",
+			"fromSide":"top",
+			"toNode":"b58e86ba4f0d421d",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
